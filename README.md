@@ -21,3 +21,5 @@ The model was fine-tuned using our custom dataset to tailor its responses specif
 
 ## Quantization
 To optimize the model for deployment, we quantized it. This process reduces the model size and improves inference speed, making it more efficient for real-time use.
+
+Deployed Model : https://huggingface.co/Seethal19/Mental_Health_Chatbot
